@@ -1,0 +1,5 @@
+print("======================MadLibs========================")
+adj= input("enter the adj: ")
+noun= input("enter the noun: ")
+verb= input("enter the verb: ")
+print(f"One day, a {adj} astronaut landed a spaceship on a planet made entirely of {noun}. To celebrate, they decided to {verb} with an alien.")

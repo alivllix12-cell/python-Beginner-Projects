@@ -1,0 +1,6 @@
+Question=Dog or cat person?
+Answer=Cat
+Question=What do you like to do?
+Answer=Coding
+Question=Have you ever experienced a friendship break-up?
+Answer=Yes 
